@@ -3,10 +3,18 @@ fun main(){
     println("Hello world")
 }
 
-Tipe data dalam kotlin
+**Tipe data dalam kotlin**
 String
 Int
 Char
 Float
 Double
 Boolean
+
+**tipe perulangan dalam kotlin**
+if else
+when
+while
+do while
+for
+
