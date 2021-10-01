@@ -1,0 +1,12 @@
+disini adalah simple code dalam bahasa pemograman kotlin
+fun main(){
+    println("Hello world")
+}
+
+Tipe data dalam kotlin
+String
+Int
+Char
+Float
+Double
+Boolean
