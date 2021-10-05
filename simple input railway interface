@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Railways Registration Protal</title>
+    <script type="text/Javascript" src="validate.js"></script>
+</head>
+<body>
+    <form action="#" name="RailwayReservationSystem" onsubmit="return(validate());">
+    <table cellpading="2" width="30%" bgcolor="99FFFF" align="center" cellspacing="2">
+        <tr>
+            <td colspan="2"><center><font size="4"> <b>Railway Reservation System</b></font></center></td>
+        </tr>
+        <tr>
+            <td>Form</td>
+            <td><input type="text" name="from" id="from" size="30"></td>
+        </tr>
+        <tr>
+            <td>To</td>
+            <td><input type="text" name="to" id="to" size="30"></td>
+
+        </tr>
+        <tr>
+            <td>Train No/Name</td>
+            <td><input type="text" name="trainno" id="trainno" size="30"></td>
+        </tr>
+        <tr>
+            <td>Class</td>
+            <td><select name="Class" id="">
+                <option value="-1" selected>select</option>
+                <option value="SL">SL</option>
+                <option value="3A">3A</option>
+                <option value="2A">2A</option>
+                <option value="1A">1A</option>
+            </select>
+            </td>
+            <tr>
+                <td>No. of Seats</td>
+                <td><select name="No of seats" id="">
+                    <option value="-1" selected> Select</option>
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+
+                </select></td>
+            </tr>
+            <tr><td>Passenger</td>
+            <td>Age</td>
+            <td>Gender</td>
+        </tr>
+        <tr>
+        <td> <input type="text" name="P1" id="30"></td>
+        <td><input type="text" name="age" id="2"></td>
+        <td><select name="gender" id="">
+            <option value="M">M</option>
+            <option value="F">F</option>
+        </select></td>
+        </tr>
+        <tr>
+            <td> <input type="text" name="P2" id="30"></td>
+            <td><input type="text" name="age" id="2"></td>
+            <td><select name="gender" id="">
+                <option value="M">M</option>
+                <option value="F">F</option>
+            </select></td>
+            </tr>
+            <tr>
+                <td> <input type="text" name="P3" id="30"></td>
+                <td><input type="text" name="age" id="2"></td>
+                <td><select name="gender" id="">
+                    <option value="M">M</option>
+                    <option value="F">F</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td>Address</td>
+                <td><input type="text" name="address" id="address" size="50"></td>
+            </tr>
+            <tr>
+                <td>Payment Mode</td>
+                <td>
+                    <input type="radio" name="Paymentmode" id="" value="Credit/Debit Card">Credit/Debit Card
+                </td>
+                <td>
+                    <input type="radio" name="Paymentmode" id="" value="Wallet/UPI">Wallet UPI 
+                </td>
+                <br>
+                <td>
+                    <input type="radio" name="Paymentmode" id="" value="netbanking">Net Banking 
+                </td>
+            </tr>
+            <tr>
+                <td>Mobilen No.</td>
+                <td><input type="tel" name="mobileno" id="mobileno"  size="30"></td>
+
+            </tr>
+            <tr>
+                <td>
+                    <input type="reset" value="reset">
+                </td>
+                <td colspan="2">
+                    <input type="submit" value="Submit Form">
+                </td>
+                <br> <br>
+                <td>
+                    <input type="reset" value="Cancel">
+                </td>
+            </tr>
+
+    </table>
+    
+    </form>
+</body>
+</html>
