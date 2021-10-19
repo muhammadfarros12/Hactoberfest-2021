@@ -1,0 +1,9 @@
+class Foo {
+  const Foo([Object? arg]);
+}
+
+@Foo(anArg)
+class A { ... }
+
+@Foo()
+class B { ... }
