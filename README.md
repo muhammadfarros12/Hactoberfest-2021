@@ -4,3 +4,4 @@
  Bagi yang mengisi repository ini silahkan untuk menuliskan nama serta link github  
  * Muhammad Farroos Al Ammaar [Github](https://github.com/muhammadfarros12)  
  * Yoel Gabriel Nainggolan [yoelngl](https://github.com/yoelngl)  
+ * Rian Fitra Aulia S [Github](https://github.com/CodeSenpai)
