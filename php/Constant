@@ -1,0 +1,10 @@
+<?php
+
+define("DEVELOPER", "Abdul Malik");
+define("APP_VERSION", "1.4.1");
+
+echo DEVELOPER;
+echo "\n";
+echo APP_VERSION;
+
+?>
