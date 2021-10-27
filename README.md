@@ -1,4 +1,8 @@
-# Hactoberfest-2021
+# Hacktoberfest 2021
+<div align="center">
+  <img src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg" />
+  </div>
+  
 **Untuk mengisi di repositori ini harap untuk membuat repo baru ataupun dengan repo yang sudah ada**  
 **yang tidak membuatnya akan saya tolak. Terimakasih**  
  Bagi yang mengisi repository ini silahkan untuk menuliskan nama serta link github  
